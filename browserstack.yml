@@ -1,5 +1,5 @@
-userName: #YOUR USERNAME
-accessKey: #YOUR ACCESS_KEY
+userName: #YOUR_USERNAME
+accessKey: #YOUR_ACCESSKEY
 platforms:
   - os: Windows
     osVersion: 10
