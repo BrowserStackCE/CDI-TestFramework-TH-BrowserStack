@@ -19,3 +19,4 @@ buildName: End-to-End Flow
 projectName: T&H Project - CDI
 accessibility: true
 percy: true
+percyCaptureMode: auto
